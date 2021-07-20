@@ -1,0 +1,38 @@
+@media screen and (min-width:300px) and (max-width:574px) {
+    .stu-info-container{
+   
+    width:100%;
+}
+
+.para-design{
+   
+    width:90%;}
+}
+
+
+
+
+@media screen and (min-width:575px) and (max-width:991px) {
+    .stu-info-container{
+   
+    width:60%;
+}
+
+.para-design{
+   
+    width:90%;}
+}
+
+
+
+@media screen and (min-width:992px) and (max-width:1400px) {
+    .stu-info-container{
+   
+    width:40%;
+}
+
+.para-design{
+   
+    width:90%;
+}
+}
